@@ -1,0 +1,3 @@
+[Error - 6:31:44 AM] Request textDocument/codeLens failed.
+  Message: Request textDocument/codeLens failed with message: Cannot read property 'currentHighestLocalTextChange' of null
+  Code: -32603 

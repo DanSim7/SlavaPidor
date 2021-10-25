@@ -1,0 +1,51 @@
+[2021-10-10 19:18:59.887] [exthost] [info] extension host started
+[2021-10-10 19:18:59.887] [exthost] [info] Skipping acquiring lock for /home/vslav/.config/VSCodium/User/workspaceStorage/4c880a9878ecdb50f15f8f7b032b45d3.
+[2021-10-10 19:18:59.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-10 19:18:59.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-10 19:18:59.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-10 19:18:59.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-10 19:19:00.000] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-10 19:19:00.001] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-10 19:19:00.020] [exthost] [info] eager extensions activated
+[2021-10-10 19:19:00.034] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-10 19:19:00.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 19:19:00.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:00.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 19:19:00.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:00.125] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 19:19:15.928] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-10 19:19:16.935] [exthost] [info] exiting with code 0
+[2021-10-10 19:19:17.609] [exthost] [info] extension host started
+[2021-10-10 19:19:17.609] [exthost] [info] Skipping acquiring lock for /home/vslav/.config/VSCodium/User/workspaceStorage/467a3187172eb919e8f02257a14b3432.
+[2021-10-10 19:19:17.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-10 19:19:17.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-10 19:19:17.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-10 19:19:17.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-10 19:19:17.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-10 19:19:17.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-10 19:19:17.708] [exthost] [info] eager extensions activated
+[2021-10-10 19:19:17.709] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-10 19:19:17.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 19:19:17.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:17.790] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 19:19:17.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:17.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 19:19:36.751] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-10 19:19:37.755] [exthost] [info] exiting with code 0
+[2021-10-10 19:19:38.416] [exthost] [info] extension host started
+[2021-10-10 19:19:38.416] [exthost] [info] Skipping acquiring lock for /home/vslav/.config/VSCodium/User/workspaceStorage/1169bd20f2dd1c15ae97d61008043c98.
+[2021-10-10 19:19:38.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-10 19:19:38.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-10 19:19:38.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-10 19:19:38.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-10 19:19:38.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-10 19:19:38.532] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-10 19:19:38.543] [exthost] [info] eager extensions activated
+[2021-10-10 19:19:38.549] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-10 19:19:38.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-10 19:19:38.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:38.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-10 19:19:38.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-10 19:19:38.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-10 20:34:34.519] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-10 20:34:35.524] [exthost] [info] exiting with code 0

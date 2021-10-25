@@ -1,0 +1,13 @@
+[Added Associations]
+inode/directory=nemo.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-M45S90.desktop;userapp-Telegram Desktop-LIADA1.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=vim.desktop;firefox.desktop;
+application/vnd.rar=org.gnome.FileRoller.desktop;
+
+[Default Applications]
+inode/directory=nemo.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-LIADA1.desktop

@@ -1,0 +1,17 @@
+Info 2021-10-19 19:53:03: ZMQ install verified.
+Info 2021-10-19 19:53:04: id is 5942fb03-13b8-4a9d-810a-671e30f46faa
+Info 2021-10-19 19:55:13: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-10-19 19:55:13: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+Info 2021-10-19 19:56:46: Shutting down notebooks for 9c97f6c6-126e-4cb1-9eee-5c605502c56b
+Info 2021-10-19 19:56:46: Disposing HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Disposing super HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Disposing HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Finished disposing HostJupyterExecution  159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Disposing HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Finished disposing HostJupyterExecution  159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Getting live share API during dispose HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Detaching HostJupyterExecution 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Cleaning up server cache 159d1a62-a6bb-43b0-8e6b-b0f180f86371
+Info 2021-10-19 19:56:46: Finished disposing HostJupyterExecution  159d1a62-a6bb-43b0-8e6b-b0f180f86371

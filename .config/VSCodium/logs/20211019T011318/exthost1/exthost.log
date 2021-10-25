@@ -1,0 +1,449 @@
+[2021-10-19 01:13:22.662] [exthost] [info] extension host started
+[2021-10-19 01:13:22.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-19 01:13:22.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-19 01:13:22.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-19 01:13:22.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-19 01:13:22.714] [exthost] [info] ExtensionService#_doActivateExtension genuitecllc.codetogether, startup: true, activationEvent: '*'
+[2021-10-19 01:13:22.714] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode-oss/extensions/genuitecllc.codetogether-4.1.3/out/extension.js
+[2021-10-19 01:13:22.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-19 01:13:22.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-19 01:13:22.939] [exthost] [info] eager extensions activated
+[2021-10-19 01:13:22.943] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-19 01:13:22.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-19 01:13:23.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:13:23.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 01:13:23.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:13:23.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-19 01:19:34.451] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-19 01:19:35.455] [exthost] [info] exiting with code 0
+[2021-10-19 01:19:36.044] [exthost] [info] extension host started
+[2021-10-19 01:19:36.044] [exthost] [info] Skipping acquiring lock for /home/vslav/.config/VSCodium/User/workspaceStorage/e00a4418b10dd5e63bd78f2e611d9ebf.
+[2021-10-19 01:19:36.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-19 01:19:36.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-19 01:19:36.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-19 01:19:36.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-19 01:19:36.086] [exthost] [info] ExtensionService#_doActivateExtension genuitecllc.codetogether, startup: true, activationEvent: '*'
+[2021-10-19 01:19:36.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode-oss/extensions/genuitecllc.codetogether-4.1.3/out/extension.js
+[2021-10-19 01:19:36.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-19 01:19:36.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-19 01:19:36.273] [exthost] [info] eager extensions activated
+[2021-10-19 01:19:36.274] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-19 01:19:36.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-19 01:19:36.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:19:36.353] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 01:19:36.356] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:19:36.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-19 01:20:49.669] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:20:51.957] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:20:56.560] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:20:59.990] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:01.514] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:04.445] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:09.565] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:20.009] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:23.924] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:26.255] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:29.941] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:33.833] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:40.730] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:42.449] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:45.810] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:21:48.578] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:22:05.481] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:23:31.491] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:13.166] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:24:23.235] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:24.741] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:24:39.705] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:41.223] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:43.096] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:24:45.320] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:46.650] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:47.879] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:49.546] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:52.591] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:53.831] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:24:58.510] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:24:59.860] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:25:01.092] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:25:17.882] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:25:18.705] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:25:23.368] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:25:24.165] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:25:26.274] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:25:28.535] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:26:49.124] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:26:49.944] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:27:24.687] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:27:27.755] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:27:36.182] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:27:38.491] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2021-10-19 01:27:38.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode-oss/extensions/ms-python.python-2021.10.1317843341/out/client/extension
+[2021-10-19 01:27:39.715] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:27:40.229] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:27:44.416] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:27:49.638] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:27:51.182] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:28:15.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 01:28:15.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-19 01:28:15.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 01:28:15.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-19 01:28:15.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 01:28:15.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-19 01:28:38.278] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:28:42.764] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:28:46.422] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:28:50.770] [exthost] [error] Error: Illegal argument
+    at b (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1268)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:51708
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:600:319)
+    at f._tryExecuteCommand (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3496)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1497:3245
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) vscode.executeCodeActionProvider
+[2021-10-19 01:28:52.827] [exthost] [error] Error: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+    at async a.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:36600)
+    at async i.acquire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:17:14820)
+    at async d.createModelReference (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:116153)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:596:26586 vscode.executeDocumentSymbolProvider
+[2021-10-19 01:34:28.463] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-19 01:34:29.489] [exthost] [info] exiting with code 0

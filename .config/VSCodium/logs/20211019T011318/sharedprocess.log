@@ -1,0 +1,17 @@
+[2021-10-19 01:13:32.269] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-19 01:13:32.271] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211002T211346'
+[2021-10-19 01:13:52.261] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-19 01:13:52.263] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-19 01:14:02.269] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-19 01:27:01.706] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-19 01:27:02.818] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-19 01:27:25.268] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/vslav/.config/VSCodium/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.12
+[2021-10-19 01:27:25.951] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode-oss/extensions/.104a4cf4-0461-484d-b600-c14a171f09a6: ms-toolsai.jupyter
+[2021-10-19 01:27:25.958] [sharedprocess] [info] Renamed to /home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12
+[2021-10-19 01:27:25.962] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-19 01:27:36.859] [sharedprocess] [info] Downloaded extension: ms-python.python /home/vslav/.config/VSCodium/CachedExtensionVSIXs/ms-python.python-2021.10.1317843341
+[2021-10-19 01:27:38.081] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode-oss/extensions/.aaecb9c6-fb4b-4c78-9062-cd3090f91f2d: ms-python.python
+[2021-10-19 01:27:38.097] [sharedprocess] [info] Renamed to /home/vslav/.vscode-oss/extensions/ms-python.python-2021.10.1317843341
+[2021-10-19 01:27:38.099] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-10-19 01:27:38.101] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-19 01:27:38.102] [sharedprocess] [info] Extension installed successfully: ms-python.python

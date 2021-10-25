@@ -1,0 +1,7 @@
+[ETD2205:00 04F3:3109 Touchpad]
+clickMethodAreas=false
+clickMethodClickfinger=true
+naturalScroll=true
+pointerAccelerationProfileAdaptive=false
+pointerAccelerationProfileFlat=true
+tapToClick=true

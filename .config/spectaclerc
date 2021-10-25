@@ -1,0 +1,14 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+clipboardGroup=PostScreenshotCopyImage
+
+[GuiConfig]
+captureMode=5
+cropRegion=530,401,868,532
+onClickChecked=true
+window-position=50,0
+
+[Save]
+lastSaveLocation=file:///home/vslav/Screenshot_20210924_233027.png

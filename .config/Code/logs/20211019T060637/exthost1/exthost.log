@@ -1,0 +1,21 @@
+[2021-10-19 06:06:41.858] [exthost] [info] extension host started
+[2021-10-19 06:06:41.858] [exthost] [info] Skipping acquiring lock for /home/vslav/.config/Code/User/workspaceStorage/1bea8c67398aec3613d74b93595fa7dc.
+[2021-10-19 06:06:41.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-19 06:06:41.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-19 06:06:41.992] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onFileSystem:vsls'
+[2021-10-19 06:06:41.992] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4991/out/prod/extension-prod
+[2021-10-19 06:06:42.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-10-19 06:06:42.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-19 06:06:42.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-19 06:06:42.586] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-19 06:06:44.037] [exthost] [info] eager extensions activated
+[2021-10-19 06:06:44.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 06:06:44.090] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 06:06:53.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 06:06:53.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-19 06:06:53.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 06:06:53.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-19 06:06:53.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-19 06:06:53.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-19 06:07:11.727] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-19 06:07:12.938] [exthost] [error] Error: ENOENT: no such file or directory, unlink '/home/vslav/.local/share/vsliveshare/cascade.json'

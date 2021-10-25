@@ -1,0 +1,13 @@
+[2021-10-19 01:34:46.128] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-19 01:34:46.131] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211002T211952'
+[2021-10-19 01:35:06.120] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-19 01:35:06.121] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-19 01:35:06.123] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1634326318984.
+[2021-10-19 01:35:16.118] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-19 01:37:55.411] [sharedprocess] [info] Uninstalling extension: genuitecllc.codetogether
+[2021-10-19 01:37:55.767] [sharedprocess] [info] Detected extension removed from another source genuitecllc.codetogether
+[2021-10-19 01:37:56.256] [sharedprocess] [info] Successfully uninstalled extension: genuitecllc.codetogether
+[2021-10-19 01:37:58.694] [sharedprocess] [info] Installing extension: genuitecllc.codetogether
+[2021-10-19 01:37:58.830] [sharedprocess] [info] Downloaded extension: genuitecllc.codetogether /home/vslav/.config/VSCodium/CachedExtensionVSIXs/genuitecllc.codetogether-4.1.3
+[2021-10-19 01:37:58.872] [sharedprocess] [info] Removed the extension from uninstalled list: genuitecllc.codetogether
+[2021-10-19 01:37:58.876] [sharedprocess] [info] Extension installed successfully: genuitecllc.codetogether

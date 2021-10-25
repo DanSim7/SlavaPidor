@@ -1,0 +1,105 @@
+Validating found git in: git
+Using git 2.33.0 from git
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/Kaleidoscope.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/TkachevLR.pro' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/TkachevLR.pro.user' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/decryption.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/decryption.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/encryption.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/encryption.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/framework.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/main' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/main.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/Калейдоскоп.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR/Поход.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/lr2/TkachevLR' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

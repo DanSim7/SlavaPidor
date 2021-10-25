@@ -1,0 +1,11 @@
+[2021-10-18 23:06:06.217] [renderer1] [info] Starting extension host with pid 3936.
+[2021-10-18 23:06:06.239] [renderer1] [error] Error: Unable to read file '/tmp/mozilla_vslav0/Лабораторная по каскадному классификатору-1.docx' (Error: Unable to resolve nonexistent file '/tmp/mozilla_vslav0/Лабораторная по каскадному классификатору-1.docx')
+    at i.handleSetInputError (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:142707)
+    at i.handleSetInputError (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:146498)
+    at i.setInput (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:142401)
+    at async h.doSetInput (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:34236)
+    at async h.doOpenEditor (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:32636)
+    at async h.openEditor (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:32284)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2619:16907
+[2021-10-18 23:06:06.683] [renderer1] [error] [Extension Host] (node:3936) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)

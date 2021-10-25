@@ -1,0 +1,5 @@
+[2021-10-19 06:06:40.572] [renderer1] [warning] Ignoring the error while validating workspace folder vsls:/ - No file system provider found for resource 'vsls:/'
+[2021-10-19 06:06:40.941] [renderer1] [info] Starting extension host with pid 1395.
+[2021-10-19 06:06:41.800] [renderer1] [error] [Extension Host] (node:1395) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 06:06:45.039] [renderer1] [error] ENOENT: no such file or directory, unlink '/home/vslav/.local/share/vsliveshare/cascade.json': Error: ENOENT: no such file or directory, unlink '/home/vslav/.local/share/vsliveshare/cascade.json'

@@ -1,0 +1,120 @@
+[2021-10-19 01:34:35.846] [renderer1] [info] Starting extension host with pid 16814.
+[2021-10-19 01:34:36.405] [renderer1] [error] [Extension Host] (node:16814) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 01:36:26.496] [renderer1] [info] Starting extension host with pid 17147.
+[2021-10-19 01:36:26.931] [renderer1] [error] [Extension Host] (node:17147) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 01:36:40.811] [renderer1] [info] Starting extension host with pid 17240.
+[2021-10-19 01:36:42.076] [renderer1] [error] [Extension Host] (node:17240) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 01:41:15.941] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:18.371] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:20.112] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:25.330] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:26.082] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:28.916] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:31.071] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:48.270] [renderer1] [error] cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy'): Error: cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2457:75529
+[2021-10-19 01:41:49.059] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:49.915] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:55.640] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:41:57.834] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:00.965] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:01.788] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:06.112] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:08.809] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:11.132] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:13.965] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:17.556] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:19.189] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:21.853] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:22.685] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:26.741] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:27.696] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:41.830] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:46.430] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:54.373] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:55.761] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:42:57.634] [renderer1] [error] cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy'): Error: cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2457:75529
+[2021-10-19 01:42:58.923] [renderer1] [error] cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy'): Error: cannot open file:///home/vslav/botsnay/main%252Cpy. Detail: Unable to read file '/home/vslav/botsnay/main%2Cpy' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main%2Cpy')
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2457:75529
+[2021-10-19 01:43:11.937] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:43:19.738] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:43:20.435] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:43:24.991] [renderer1] [error] Running the contributed command: 'vscode.executeCodeActionProvider' failed.: Error: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:43:25.653] [renderer1] [error] Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.: Error: Running the contributed command: 'vscode.executeDocumentSymbolProvider' failed.
+	at l._executeContributedCommand (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111812)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-10-19 01:43:44.527] [renderer1] [error] [text file model] handleSaveError(4) - exit - resulted in a save error: Error: Unable to write file '/home/vslav/botsnay/.vscode/settings.json' (Error: File Modified Since) file:///home/vslav/botsnay/.vscode/settings.json
+[2021-10-19 01:44:59.603] [renderer1] [error] Cannot read property 'items' of undefined: TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/vslav/.vscode-oss/extensions/ms-python.python-2021.10.1317843341/out/client/extension.js:52:367070)
+	at p (/home/vslav/.vscode-oss/extensions/ms-python.python-2021.10.1317843341/out/client/extension.js:52:369734)
+	at async U.provideCompletionItems (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180703)
+[2021-10-19 01:46:03.651] [renderer1] [error] cannot open file:///home/vslav/botsnay/main%2Cpy. Detail: Unable to read file '/home/vslav/botsnay/main,py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main,py'): Error: cannot open file:///home/vslav/botsnay/main%2Cpy. Detail: Unable to read file '/home/vslav/botsnay/main,py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/main,py')
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2457:75529

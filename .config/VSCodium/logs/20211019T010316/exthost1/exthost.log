@@ -1,0 +1,18 @@
+[2021-10-19 01:03:20.012] [exthost] [info] extension host started
+[2021-10-19 01:03:20.047] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-19 01:03:20.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-19 01:03:20.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-19 01:03:20.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/git/dist/main
+[2021-10-19 01:03:20.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-19 01:03:20.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/github/dist/extension.js
+[2021-10-19 01:03:20.097] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-19 01:03:20.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-19 01:03:20.195] [exthost] [info] eager extensions activated
+[2021-10-19 01:03:20.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:03:20.208] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 01:03:20.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 01:03:20.213] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-19 01:12:43.053] [exthost] [info] ExtensionService#_doActivateExtension genuitecllc.codetogether, startup: false, activationEvent: '*'
+[2021-10-19 01:12:43.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode-oss/extensions/genuitecllc.codetogether-4.1.3/out/extension.js
+[2021-10-19 01:13:12.800] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-19 01:13:13.810] [exthost] [info] exiting with code 0

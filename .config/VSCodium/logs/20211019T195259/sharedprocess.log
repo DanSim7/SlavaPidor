@@ -1,0 +1,20 @@
+[2021-10-19 19:53:12.783] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-19 19:53:12.786] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211002T213033'
+[2021-10-19 19:53:27.779] [sharedprocess] [info] Uninstalling extension: genuitecllc.codetogether
+[2021-10-19 19:53:28.133] [sharedprocess] [info] Detected extension removed from another source genuitecllc.codetogether
+[2021-10-19 19:53:28.907] [sharedprocess] [info] Successfully uninstalled extension: genuitecllc.codetogether
+[2021-10-19 19:53:32.780] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-19 19:53:32.781] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-19 19:53:42.782] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-19 19:55:12.898] [sharedprocess] [info] Installing extension: dunstontc.viml
+[2021-10-19 19:55:13.597] [sharedprocess] [info] Downloaded extension: dunstontc.viml /home/vslav/.config/VSCodium/CachedExtensionVSIXs/dunstontc.viml-0.1.7
+[2021-10-19 19:55:13.665] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode-oss/extensions/.0c3c2676-cd5c-484f-bf38-97ae7580f090: dunstontc.viml
+[2021-10-19 19:55:13.667] [sharedprocess] [info] Renamed to /home/vslav/.vscode-oss/extensions/dunstontc.viml-0.1.7
+[2021-10-19 19:55:13.667] [sharedprocess] [info] Extracting completed. dunstontc.viml
+[2021-10-19 19:55:13.668] [sharedprocess] [info] Extension installed successfully: dunstontc.viml
+[2021-10-19 19:56:07.302] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-10-19 19:56:08.464] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/vslav/.config/VSCodium/CachedExtensionVSIXs/vscodevim.vim-1.21.8
+[2021-10-19 19:56:08.555] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode-oss/extensions/.367ffbbb-d7b3-4f4d-89b5-3551634eaf82: vscodevim.vim
+[2021-10-19 19:56:08.558] [sharedprocess] [info] Renamed to /home/vslav/.vscode-oss/extensions/vscodevim.vim-1.21.8
+[2021-10-19 19:56:08.559] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2021-10-19 19:56:08.560] [sharedprocess] [info] Extension installed successfully: vscodevim.vim

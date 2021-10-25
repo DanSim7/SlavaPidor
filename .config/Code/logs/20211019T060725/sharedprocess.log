@@ -1,0 +1,11 @@
+[2021-10-19 06:07:40.144] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-19 06:08:00.143] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-19 06:08:00.146] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-19 06:08:00.150] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1634612797849.
+[2021-10-19 06:08:10.144] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-19 06:17:31.737] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-10-19 06:17:33.364] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/vslav/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.21.9
+[2021-10-19 06:17:33.456] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.3e139d9a-559a-454e-aa71-c15addf2d6b7: vscodevim.vim
+[2021-10-19 06:17:33.460] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/vscodevim.vim-1.21.9
+[2021-10-19 06:17:33.462] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2021-10-19 06:17:33.463] [sharedprocess] [info] Extension installed successfully: vscodevim.vim

@@ -1,0 +1,6 @@
+[Error - 2:58:16 AM] Request textDocument/codeAction failed.
+  Message: Request languageServerProvider-any.request failed with message: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+  Code: -32603 
+[Error - 2:58:58 AM] Request textDocument/codeAction failed.
+  Message: Request languageServerProvider-any.request failed with message: Running the contributed command: 'vscode.executeCodeActionProvider' failed.
+  Code: -32603 

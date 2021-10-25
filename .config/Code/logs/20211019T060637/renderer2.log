@@ -1,0 +1,4 @@
+[2021-10-19 06:06:40.853] [renderer2] [info] Starting extension host with pid 1387.
+[2021-10-19 06:06:41.502] [renderer2] [error] [Extension Host] (node:1387) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 06:07:01.747] [renderer2] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups

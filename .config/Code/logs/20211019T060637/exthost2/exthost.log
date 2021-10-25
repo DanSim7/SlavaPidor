@@ -1,0 +1,27 @@
+[2021-10-19 06:06:41.776] [exthost] [info] extension host started
+[2021-10-19 06:06:41.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-19 06:06:41.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-19 06:06:41.905] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-10-19 06:06:41.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode/extensions/ms-python.python-2021.10.1336267007/out/client/extension
+[2021-10-19 06:06:42.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-19 06:06:42.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-19 06:06:42.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-19 06:06:42.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-19 06:06:42.214] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2021-10-19 06:06:42.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4991/out/prod/extension-prod
+[2021-10-19 06:06:42.717] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-19 06:06:42.717] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-19 06:06:42.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2021-10-19 06:06:42.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-10-19 06:06:42.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-19 06:06:42.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-19 06:06:43.310] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-10-19 06:06:43.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vslav/.vscode/extensions/ms-python.vscode-pylance-2021.10.1/dist/extension.bundle.js
+[2021-10-19 06:06:44.371] [exthost] [info] eager extensions activated
+[2021-10-19 06:06:44.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 06:06:44.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 06:06:44.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 06:06:44.393] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-19 06:07:01.802] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-19 06:07:02.837] [exthost] [error] Error: ENOENT: no such file or directory, unlink '/home/vslav/.local/share/vsliveshare/cascade.json'
+[2021-10-19 06:07:06.817] [exthost] [info] exiting with code 0

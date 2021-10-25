@@ -1,0 +1,46 @@
+[2021-10-19 01:53:17.649] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-19 01:53:27.851] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2021-10-19 01:53:29.851] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/vslav/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.4991
+[2021-10-19 01:53:30.640] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.f7d9742c-2048-4595-94fd-667105ca6704: ms-vsliveshare.vsliveshare
+[2021-10-19 01:53:30.656] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.4991
+[2021-10-19 01:53:30.658] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2021-10-19 01:53:30.661] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2021-10-19 01:53:37.653] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-19 01:53:37.655] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-19 01:53:47.654] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-19 01:53:52.017] [sharedprocess] [info] Installing extension: github.github-vscode-theme
+[2021-10-19 01:53:53.276] [sharedprocess] [info] Downloaded extension: github.github-vscode-theme /home/vslav/.config/Code/CachedExtensionVSIXs/github.github-vscode-theme-5.0.3
+[2021-10-19 01:53:53.308] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.3bfab933-22f7-4138-ba3c-ce93f41847f6: github.github-vscode-theme
+[2021-10-19 01:53:53.310] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/github.github-vscode-theme-5.0.3
+[2021-10-19 01:53:53.311] [sharedprocess] [info] Extracting completed. github.github-vscode-theme
+[2021-10-19 01:53:53.312] [sharedprocess] [info] Extension installed successfully: github.github-vscode-theme
+[2021-10-19 01:56:34.396] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-19 01:56:37.608] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-19 01:56:37.609] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-10-19 01:56:37.609] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-10-19 01:56:37.609] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-19 01:56:39.031] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/vslav/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-19 01:56:39.063] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.03f0d18f-8cec-4e91-a735-764b398f9540: ms-toolsai.jupyter-keymap
+[2021-10-19 01:56:39.065] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-19 01:56:39.066] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-10-19 01:56:39.533] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/vslav/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-19 01:56:39.656] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.79e0fa40-7ecb-46c7-8bb7-26b4ab98e5f0: ms-toolsai.jupyter-renderers
+[2021-10-19 01:56:39.667] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-19 01:56:39.668] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-10-19 01:56:40.340] [sharedprocess] [info] Downloaded extension: ms-python.python /home/vslav/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.10.1336267007
+[2021-10-19 01:56:40.341] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/vslav/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-19 01:56:40.963] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.8b65ebe4-fd53-4867-9964-dcff502af00a: ms-toolsai.jupyter
+[2021-10-19 01:56:40.977] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-19 01:56:40.980] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-19 01:56:41.825] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.2dd70861-6082-4719-a0f1-3d2cb0b42675: ms-python.python
+[2021-10-19 01:56:41.831] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-python.python-2021.10.1336267007
+[2021-10-19 01:56:41.833] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-10-19 01:56:43.227] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/vslav/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.10.1
+[2021-10-19 01:56:44.856] [sharedprocess] [info] Extracted extension to /home/vslav/.vscode/extensions/.bb08a0d6-720e-47ec-98b6-c58b16c6182d: ms-python.vscode-pylance
+[2021-10-19 01:56:44.873] [sharedprocess] [info] Renamed to /home/vslav/.vscode/extensions/ms-python.vscode-pylance-2021.10.1
+[2021-10-19 01:56:44.874] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-10-19 01:56:44.879] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-10-19 01:56:44.880] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-10-19 01:56:44.880] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-19 01:56:44.880] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-10-19 01:56:44.880] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

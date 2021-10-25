@@ -1,0 +1,11 @@
+[MainWindow]
+RestorePositionForNextInstance=false
+eDP-1 XPosition 1920x1080=584
+eDP-1 YPosition 1920x1080=89
+
+[Open-with settings]
+CompletionMode=1
+History=ala
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=false

@@ -1,0 +1,11 @@
+[2021-10-19 19:53:02.569] [renderer1] [info] Starting extension host with pid 9600.
+[2021-10-19 19:53:02.927] [renderer1] [error] [Extension Host] (node:9600) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-19 19:53:13.955] [renderer1] [error] Unable to read file '/home/vslav/botsnay/c_stydent.py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/c_stydent.py'): Error: Unable to read file '/home/vslav/botsnay/c_stydent.py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/c_stydent.py')
+    at wi.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:610:17847)
+    at async g.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41836)
+    at async g.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2463:41557)
+    at async Ji.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:103607)
+[2021-10-19 19:53:15.018] [renderer1] [error] cannot open file:///home/vslav/botsnay/c_stydent.py. Detail: Unable to read file '/home/vslav/botsnay/c_stydent.py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/c_stydent.py'): Error: cannot open file:///home/vslav/botsnay/c_stydent.py. Detail: Unable to read file '/home/vslav/botsnay/c_stydent.py' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/c_stydent.py')
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2457:75529
+[2021-10-19 19:56:09.940] [renderer1] [error] ENOENT: no such file or directory, open '/home/vslav/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/vslav/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'

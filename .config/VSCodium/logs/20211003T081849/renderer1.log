@@ -1,0 +1,1 @@
+[2021-10-03 08:19:07.003] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/shellscript/package.json'

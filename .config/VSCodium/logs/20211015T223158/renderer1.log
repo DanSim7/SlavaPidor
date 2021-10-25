@@ -1,0 +1,5 @@
+[2021-10-15 22:32:01.615] [renderer1] [info] Starting extension host with pid 25997.
+[2021-10-15 22:32:02.093] [renderer1] [error] [Extension Host] (node:25997) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-15 22:32:08.171] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/html/package.json'
+[2021-10-15 22:32:08.171] [renderer1] [error] EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/share/vscodium/resources/app/extensions/xml/package.json'

@@ -1,0 +1,32 @@
+Поиск git в: git
+Используется git 2.33.0 из git
+Opening repository for path='/home/vslav/unic/5_sem/crypto' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: не найден git репозиторий (или один из родительских каталогов): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto/get info' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/in.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/main' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/main.cpp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/out.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto/set locale' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/vslav/unic/5_sem/crypto' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: не найден git репозиторий (или один из родительских каталогов): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: не найден git репозиторий (или один из родительских каталогов): .git\n"
+}
+Opening repository for path='/home/vslav/unic/5_sem/crypto' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: не найден git репозиторий (или один из родительских каталогов): .git\n"
+}

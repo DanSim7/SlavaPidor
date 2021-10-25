@@ -1,0 +1,9 @@
+[2021-10-10 19:18:59.391] [renderer1] [info] Starting extension host with pid 26045.
+[2021-10-10 19:18:59.790] [renderer1] [error] [Extension Host] (node:26045) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-10 19:19:17.010] [renderer1] [info] Starting extension host with pid 26163.
+[2021-10-10 19:19:17.477] [renderer1] [error] [Extension Host] (node:26163) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)
+[2021-10-10 19:19:37.851] [renderer1] [info] Starting extension host with pid 26227.
+[2021-10-10 19:19:38.257] [renderer1] [error] [Extension Host] (node:26227) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `codium --trace-deprecation ...` to show where the warning was created)

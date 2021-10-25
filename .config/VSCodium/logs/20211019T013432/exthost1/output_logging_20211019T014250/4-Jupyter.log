@@ -1,0 +1,31 @@
+Info 2021-10-19 01:42:50: ZMQ install verified.
+Info 2021-10-19 01:42:50: id is 4b58e221-10b4-4faf-8476-340c498555cf
+Error 2021-10-19 01:42:51: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/vslav/.config/Code/User/settings.json' (Error: Unable to resolve nonexistent file '/home/vslav/.config/Code/User/settings.json')
+	at _handleError (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:90:560205)
+	at async g.fixSettingsFile (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:282243)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:283963)] {
+  code: 'FileNotFound'
+}
+Error 2021-10-19 01:42:51: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/vslav/botsnay/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/vslav/botsnay/.vscode/settings.json')
+	at _handleError (/usr/share/vscodium/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:90:560205)
+	at async g.fixSettingsFile (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:282243)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/vslav/.vscode-oss/extensions/ms-toolsai.jupyter-2021.8.12/out/client/extension.js:52:283963)] {
+  code: 'FileNotFound'
+}
+Info 2021-10-19 02:15:42: Shutting down notebooks for 8adba490-28b7-464a-9206-9aaea65e6a16
+Info 2021-10-19 02:15:42: Disposing HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Disposing super HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Disposing HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Finished disposing HostJupyterExecution  15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Disposing HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Finished disposing HostJupyterExecution  15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Getting live share API during dispose HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Detaching HostJupyterExecution 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Cleaning up server cache 15569d12-1cc1-4386-af47-370e57d2abf5
+Info 2021-10-19 02:15:42: Finished disposing HostJupyterExecution  15569d12-1cc1-4386-af47-370e57d2abf5
